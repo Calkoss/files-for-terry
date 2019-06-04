@@ -1,0 +1,92 @@
+##Manchu States
+#Yue-Yeren
+vassal = {
+	first = YUE
+	second = YER
+	start_date = 1836.1.1
+	end_date = 1938.1.1
+}
+#Yue-Jianzhou
+vassal = {
+	first = YUE
+	second = JIA
+	start_date = 1836.1.1
+	end_date = 1938.1.1
+}
+#Yue-Jurchen
+substate = {
+	first = YUE
+	second = MCK
+	start_date = 1836.1.1
+	end_date = 1938.1.1
+}
+#Yue-Evenkia
+vassal = {
+	first = YUE
+	second = EVE
+	start_date = 1836.1.1
+	end_date = 1938.1.1
+}
+
+##Western Provinces
+#Yue-Kamul
+vassal = {
+	first = YUE
+	second = KML
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+#Yue-Tibet.
+vassal = {
+	first = Yue
+	second = TIB
+	start_date = 1815.11.9
+	end_date = 1912.1.1
+}
+
+##Northern Provinces
+#Yue-Tannu Tuva
+vassal = {
+	first = YUE
+	second = TNT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+#Yue-Buryat
+vassal = {
+	first = YUE
+	second = BRY
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+#Yue-Mongolia
+vassal = {
+	first = YUE
+	second = MGL
+	start_date = 1691.1.1
+	end_date = 1937.1.1
+}
+
+##Southern Provinces
+#Yue-Yunnan
+substate = {
+	first = YUE
+	second = YNN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Yue-Korea
+vassal = {
+	first = YUE
+	second = KOR
+	start_date = 1636.1.1
+	end_date = 1876.1.1
+}
+#Yue-Annan
+vassal = {
+	first = YUE
+	second = ANN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
